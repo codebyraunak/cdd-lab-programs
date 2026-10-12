@@ -1,4 +1,8 @@
 mbdugfdbcdbueygfudsb csdpus
 lvxc D{gdf;l;vnuygi
 raunalscngfdgcbdncjk7
+<<<<<<< HEAD
 line 1
+=======
+line 1
+>>>>>>> raunak
